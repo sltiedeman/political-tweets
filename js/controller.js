@@ -9,7 +9,7 @@ setTimeout(function(){
 
 
 function viewProject(){
-	document.getElementById("intro-page").style.display="none";
+	document.getElementById("intro-page-wrapper").style.display="none";
 }
 
 $(document).ready(function(){
